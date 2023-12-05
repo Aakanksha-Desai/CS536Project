@@ -7,6 +7,8 @@ A mobile application that integrates with teh ChatGPT API to provide responses t
 - SDK: SwiftUI, AVFoundation, Speech
 - Swift Packages: OpenAISwift (OpenAI API Client Library in Swift)
 
+> __Note__ The code was initially developed by Yasuhito Nagatomo (https://github.com/ynagatomo/HeyChatGPT) and modified by us.
+
 ## Features
 
 - Users can input questions by voice.
@@ -14,12 +16,9 @@ A mobile application that integrates with teh ChatGPT API to provide responses t
 - Users can listen answers by voice.
 - Users can see their interaction history.
 
-
-The code was initially developed by Yasuhito Nagatomo (https://github.com/ynagatomo/HeyChatGPT) and modified by us.
-
 ## Team Member
-Aakanksha Desai - desai168@purdue.edu
-Ellen Duan - duan99@purdue.edu
+Aakanksha Desai - desai168@purdue.edu<br>
+Ellen Duan - duan99@purdue.edu<br>
 Peter Xu - xu1174@purdue.edu
 
 ## Build and Run the Project
