@@ -1,5 +1,5 @@
 # CS536 Project
-A mobile application that integrates with teh ChatGPT API to provide responses to user queries. This application incorporate speech recognition and text-to-speech technologies to enable users to engage with ChatGPT through voice commnads and receive spoken responses.
+A mobile application that integrates with the ChatGPT API to provide responses to user queries. This application incorporates speech recognition and text-to-speech technologies to enable users to engage with ChatGPT through voice commnads and receive spoken responses.
 
 - Target devices: iPhone / iPad / Mac with M1/M2 (Designed for iPad)
 - Target OS: iOS 16.0+, iPadOS 16.0+, macOS 13.0+
